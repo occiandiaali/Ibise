@@ -1,0 +1,7 @@
+{
+  "name": "ibise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
